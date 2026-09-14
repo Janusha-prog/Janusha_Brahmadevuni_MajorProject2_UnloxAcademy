@@ -155,7 +155,7 @@ The application allows the user to:
 5. See the main factors behind the recommendation.
 6. Give Accept or Reject feedback.
 
-# Technologies Used:
+## Technologies Used:
 
 Python
 Pandas
