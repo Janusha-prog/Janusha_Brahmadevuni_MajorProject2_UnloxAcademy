@@ -2,6 +2,12 @@
 
 # Intelligent Hybrid Profile Matching System
 
+## Live Demo
+
+The project is deployed using Streamlit.
+
+Click here to open the application : https://intelligent-hybrid-profile-matching-system-major-project.streamlit.app/
+
 ## Project Overview
 
 This project is a profile matching and recommendation system that helps users find suitable profiles based on different factors.
